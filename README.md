@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working in NOU Apparels Pvt. Ltd. as a Junior Web developer.<br>I am looking forward to Python Django + NextJS.
+I am currently working in NOU Apparels Pvt. Ltd. as a Junior Web developer.<br>I am looking forward to NodeJS Express and NextJS.
 
 
 ## 🌐 Socials:
