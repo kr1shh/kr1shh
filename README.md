@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working in NOU Apparels Pvt. Ltd. as a Junior Web developer.<br>I am looking forward to NodeJS Express and NextJS.
+I am currently working in I-Net Infotech as a Frontend web developer mentor.<br>I am looking forward to NodeJS Express and NextJS.
 
 
 ## 🌐 Socials:
